@@ -67,7 +67,7 @@ Bu sprintte tamamlanması hedeflenen çalışmalar:
 - CSV veri seti ile ilk testlerin gerçekleştirilmesi
 
   
-Daily Scrum
+# Daily Scrum
 
 Takım üyelerinin farklı ders programlarına sahip olması nedeniyle Daily Scrum toplantılarının Slack üzerinden gerçekleştirilmesine karar verilmiştir. Günlük toplantılarda tamamlanan görevler, karşılaşılan problemler ve ertesi gün yapılacak çalışmalar paylaşılmıştır.
 
