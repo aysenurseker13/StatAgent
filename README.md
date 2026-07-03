@@ -1,2 +1,2 @@
 # StatAgent
-NeuroMap is an interactive neuroscience visualization tool that allows users to compare healthy brains with various neurological conditions.  It helps users understand how diseases like Alzheimer’s affect brain structure in a simple, visual, and intuitive way.
+Kullanıcının yüklediği veri setini otomatik olarak inceleyen, eksik verileri analiz eden ve kullanıcının doğal dilde sorduğu sorulara göre ($R$ veya Python kullanarak) arka planda analizler koşturan bir AI Agent platformu.
